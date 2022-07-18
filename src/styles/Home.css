@@ -1,0 +1,18 @@
+
+body{
+    background-color: rgb(222, 242, 250);
+}
+.div1{
+    display: flex;
+    column-gap: 30px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+}
+.heading{
+    color: green;
+}
+.image{
+    width: 500px;
+    height: 400px;
+    }
